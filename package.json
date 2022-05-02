@@ -1,6 +1,6 @@
 {
   "name": "lets-deploy-github",
-  "home": "http://GustavoKoch.github.io/lets-deploy-github",
+  "home": "http://gustavokoch.github.io/lets-deploy-github",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
